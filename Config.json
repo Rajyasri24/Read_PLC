@@ -1,0 +1,11 @@
+[
+    {
+        "PLC": ["192.068.0.1", "0", "1", "2"],
+        "Tags": {
+            "prod": {"Type": "int", "offset": 24},
+            "xys": {"Type": "real", "offset": 30},
+            "a": {"Type": "string", "offset": 30}
+        }
+    }
+
+]
